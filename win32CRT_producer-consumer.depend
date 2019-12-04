@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1573431196 source:c:\users\datamanagement\documents\practice_c\thread\thread_producer-consumer\thread_producer-consumer.cpp
-	<windows.h>
-	<process.h>
-	<stdio.h>
-	<queue>
-	<time.h>
-
